@@ -4,7 +4,7 @@ console.log('What is a commentary ?')
 
 
 /*
-This a comment also!!!
+This is a comment also!!!
 And you can use multiple lines.
 */
 
