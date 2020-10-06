@@ -7,3 +7,4 @@ let imc = peso / (altura * altura);
 let anoDeNascimento = 2020 - idade;
 
 console.log(`${nome} ${sobrenome} nasceu em: ${anoDeNascimento} e seu imc é ${imc}`);
+
